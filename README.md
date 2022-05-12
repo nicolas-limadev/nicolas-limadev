@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Nicolas 👋
 
 
-- 🔭 Hoje trabalho com Java E Design Gráfico
+- 🔭 Hoje trabalho com Java e Design Gráfico
 - 🌱 Estudando Java, HTML, CSS
 - 📫 Contate-me no email: contatobyteoficial@gmail.com
 
