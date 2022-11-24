@@ -3,7 +3,7 @@
 
 - 🔭 Hoje trabalho com Scratch e Design Gráfico
 - 🌱 Estudando Java, HTML, CSS, JavaScript
-- 📫 Contate-me no email: contatobyteoficial@gmail.com
+- 📫 Contate-me no email: nicolasblima1711@gmail.com
 
 <div align="center">
   <a href="https://github.com/NicolasLima1">
