@@ -2,7 +2,7 @@
 
 
 - 🔭 Hoje trabalho com Scratch e Design Gráfico
-- 🌱 Estudando Java, HTML, CSS
+- 🌱 Estudando Java, HTML, CSS, JavaScript
 - 📫 Contate-me no email: contatobyteoficial@gmail.com
 
 <div align="center">
