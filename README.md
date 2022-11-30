@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Nicolas 👋
 
 
-- 🔭 Hoje trabalho com Scratch e Design Gráfico
-- 🌱 Estudando Java, HTML, CSS, JavaScript, React
+- 🔭 Hoje trabalho com Java e Design Gráfico
+- 🌱 Estudando HTML, CSS, JavaScript, React
 - 📫 Contate-me no email: nicolasblima1711@gmail.com
 
 <div align="center">
