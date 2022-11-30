@@ -2,7 +2,7 @@
 
 
 - 🔭 Hoje trabalho com Scratch e Design Gráfico
-- 🌱 Estudando Java, HTML, CSS, JavaScript
+- 🌱 Estudando Java, HTML, CSS, JavaScript, React
 - 📫 Contate-me no email: nicolasblima1711@gmail.com
 
 <div align="center">
