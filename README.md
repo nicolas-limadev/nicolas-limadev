@@ -2,7 +2,7 @@
 
 
 - 🔭 Java Developer e Design Gráfico
-- 🌱 HTML, CSS, JavaScript, React, Nest.js, Node.js
+- 🌱 HTML, CSS, JavaScript, React, Node, Nest.js, Docker, AWS
 - 📫 Contate-me no email: nicolasblima1711@gmail.com
 
 <div align="center">
