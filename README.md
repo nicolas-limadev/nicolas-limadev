@@ -1,8 +1,8 @@
-### Olá! Eu sou o Nicolas 👋
+### Olá! Me chamo Nicolas 👋
 
 
 - 🔭 Java Developer e Design Gráfico
-- 🌱 HTML, CSS, JavaScript, React, Node, Nest.js, Docker, AWS
+- 🌱 Spring, React, Node, Nest.js, Docker, AWS, Vagrant, Terraform
 - 📫 Contate-me no email: nicolasblima1711@gmail.com
 
 <div align="center">
