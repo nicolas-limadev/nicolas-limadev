@@ -2,7 +2,7 @@
 
 
 - 🔭 Java Developer e Design Gráfico
-- 🌱 Atualmente estudo: Spring, React, Node, Nest.js, Docker, AWS, Vagrant, Terraform
+- 🌱 Atualmente estudo: Spring, React, Node, Nest.js, Docker, AWS, Vagrant, Terraform.
 - 📫 Contate-me no email: nicolasblima1711@gmail.com
 
 <div align="center">
