@@ -25,6 +25,7 @@
     <img align="center" alt="Nick-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
     <img align="center" alt="Nick-Terraform" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg"> 
   </div>
+  <br>
 <div> 
   <a href="https://www.youtube.com/channel/UCjoqwpsiXuPCzUy7oFpxaQg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
 </a>
