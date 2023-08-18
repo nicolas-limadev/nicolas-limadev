@@ -22,7 +22,7 @@
 </div>
 <style>
     .div-espaco {
-        margin: 10px; /* Adicione a margem desejada */
+        margin: 10px;
     }
 </style>
 
