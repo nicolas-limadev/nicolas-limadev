@@ -20,11 +20,6 @@
   
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/567164116603764748/974136010592108604/logomarca_png_branco_2.png">
 </div>
-<style>
-    .div-espaco {
-        margin: 10px;
-    }
-</style>
 
 <div class="div-espaco"></div>
 
@@ -42,3 +37,9 @@
 </a>
   <a href = "mailto:nicolasblima1711@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/nicolaslima1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+
+<style>
+    .div-espaco {
+        margin: 10px;
+    }
+</style>
