@@ -2,7 +2,7 @@
 
 
 - 🔭 Java Developer e DevOps Enginner
-- 🌱 Stack: Spring, Node, Nest.js, Docker, AWS, Ansible, Terraform, Jenkins, Vagrant.
+- 🌱 Stack: Spring, Node, Nest.js, Docker, AWS, Ansible, Terraform, Jenkins, Vagrant, Git Actions.
 - 📫 Contate-me no email: nicolasblima1711@gmail.com
 
 <div align="center">
