@@ -31,10 +31,10 @@
     <img align="center" alt="Nick-postgres" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
   
   </div>
-
+  <br>
   <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=nicolas-limadev&label=Profile%20Views&color=1&icon=0&pretty=true" />
-</a>
+  </a>
   <br>
 <div> 
   <a href="https://www.youtube.com/channel/UCjoqwpsiXuPCzUy7oFpxaQg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
