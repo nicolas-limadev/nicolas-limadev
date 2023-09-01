@@ -31,11 +31,6 @@
     <img align="center" alt="Nick-postgres" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
   
   </div>
-  <br>
-  <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=nicolas-limadev&label=Profile%20Views&color=1&icon=0&pretty=true" />
-  </a>
-  <br>
 <div> 
   <a href="https://www.youtube.com/channel/UCjoqwpsiXuPCzUy7oFpxaQg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
 </a>
@@ -43,3 +38,9 @@
 </a>
   <a href = "mailto:nicolasblima1711@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/nicolaslima1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+
+  <br>
+  <a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=nicolas-limadev&label=Profile%20Views&color=1&icon=0&pretty=true" />
+  </a>
+  <br>
