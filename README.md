@@ -31,6 +31,7 @@
     <img align="center" alt="Nick-postgres" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
   
   </div>
+  <br>
 <div> 
   <a href="https://www.youtube.com/channel/UCjoqwpsiXuPCzUy7oFpxaQg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
 </a>
