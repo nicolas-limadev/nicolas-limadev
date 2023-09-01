@@ -10,7 +10,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolas-limadev&show_icons=false&theme=dracula&include_all_commits=true&count_private=true&layout=compact"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicolas-limadev&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=nicolas-limadev&label=Profile%20Views&color=1&icon=0&pretty=true" />
+</a>
 <div style="display: inline_block"><br>
   <img align="center" alt="Nick-Spring" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <img align="center" alt="Nick-Docker" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
