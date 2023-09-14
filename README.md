@@ -21,7 +21,7 @@
   
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/567164116603764748/974136010592108604/logomarca_png_branco_2.png">
 </div>
-  </div>
+
   <br>
 <div> 
   <div>
