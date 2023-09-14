@@ -4,8 +4,8 @@
 - 🔭 Java Developer e DevOps Enginner
 - 🌱 Stack: Spring, Node, Nest.js, Docker, AWS, Azure, Ansible, Terraform, Jenkins, Vagrant, Git Actions.
 - 📫 Contate-me no email: nicolasblima1711@gmail.com
-<br>
-<div align="center">
+
+<div align="center"><br>
   <a href="https://github.com/nicolas-limadev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolas-limadev&show_icons=false&theme=dracula&include_all_commits=true&count_private=true&layout=compact"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicolas-limadev&layout=compact&langs_count=7&theme=dracula"/>
