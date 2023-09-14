@@ -1,4 +1,4 @@
-### Olá! Me chamo Nicolas 👋
+### Hi! I'm Nicolas 👋
 
 
 - 🔭 Java Developer e DevOps Enginner
