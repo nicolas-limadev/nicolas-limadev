@@ -16,25 +16,25 @@
 # 💻 Tech Stack:
 <div style="display: inline_block" align="center"><br>
 <img align="center" alt="Nick-Spring" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  <span style="color:#6DB33F; font-weight:bold;">Spring</span>
+**Spring**
 <img align="center" alt="Nick-Docker" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <span style="color:#1488C6; font-weight:bold;">Docker</span>
+**Docker**
 <img align="center" alt="Nick-Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <span style="color:#007396; font-weight:bold;">Java</span>
+**Java**
 <img align="center" alt="Nick-node" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> 
-  <span style="color:#68A063; font-weight:bold;">Node.js</span>
+**Node.js**
 <img align="center" alt="Nick-AWS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"> 
-  <span style="color:#FF9900; font-weight:bold;">AWS</span>
+**AWS**
 <img align="center" alt="Nick-Ansible" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original-wordmark.svg"> 
-  <span style="color:#EE0000; font-weight:bold;">Ansible</span>
+**Ansible**
 <img align="center" alt="Nick-Linux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"> 
-  <span style="color:#EBC837; font-weight:bold;">Linux</span>
+**Linux**
 <img align="center" alt="Nick-Terraform" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg"> 
-  <span style="color:#5C4EE3; font-weight:bold;">Terraform</span>
+**Terraform**
 <img align="center" alt="Nick-mySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"> 
-  <span style="color:#00758F; font-weight:bold;">MySQL</span>
+**MySQL**
 <img align="center" alt="Nick-postgres" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"> 
-  <span style="color:#336791; font-weight:bold;">PostgreSQL</span>
+**PostgreSQL**
 </div>
 <br>
 <br>
