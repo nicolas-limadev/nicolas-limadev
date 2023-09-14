@@ -11,7 +11,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicolas-limadev&layout=compact&langs_count=7&theme=dracula"/>
 </div>
     
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=nicolas-limadev&theme=dark&hide_border=false)
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=nicolas-limadev&theme=dark&hide_border=false)<br>
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="Nick-Spring" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <img align="center" alt="Nick-Docker" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
