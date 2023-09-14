@@ -41,7 +41,7 @@
   <a href="https://www.linkedin.com/in/nicolaslima1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   <br>
   <br>
-  <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=nicolas-limadev&label=Profile%20Views&color=1&icon=0&pretty=true" />
-  </a>
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=nicolas-limadev&label=Profile%20Views&icon=0&pretty=false" />
+</a>
   <br>
