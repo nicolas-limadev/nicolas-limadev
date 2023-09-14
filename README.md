@@ -18,7 +18,6 @@
   <img align="center" alt="Nick-Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Nick-node" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Nick-AWS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">       
-  
   <img align="right" alt="Nick-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/567164116603764748/974136010592108604/logomarca_png_branco_2.png">
 </div>
 <br>
