@@ -1,8 +1,8 @@
 ### Hi! I'm Nicolas 👋
 
 
-- 🔭 Java Developer e DevOps Enginner
-- 🌱 Stack: Spring, Node, Nest.js, Docker, Ansible, Terraform, Jenkins, Vagrant, Git Actions, Kubernetes.
+- 🔭 Java Developer e DevOps Engineer
+- 🌱 Stack: Spring, Node, Nest.js, Docker, Ansible, Terraform, Jenkins, Vagrant, Packer, Git Actions, Kubernetes.
 - 🌐 Cloud: AWS and Azure
 - 📫 Contact me at the email: nicolasblima1711@gmail.com
 
