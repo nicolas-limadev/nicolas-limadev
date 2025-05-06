@@ -2,7 +2,7 @@
 
 
 - 🔭 Java Developer e DevOps Engineer
-- 🌱 Stack: Spring, Nest.js, Kubernetes, Argo CD, Ansible, Terraform, Jenkins, Vagrant, Packer, Git Actions.
+- 🌱 Stack: Kubernetes, Argo CD, Vagrant, Packer, Git Actions.
 - 🌐 Cloud: AWS and Azure
 - 📫 Contact me at the email: nicolasblima1711@gmail.com
 
@@ -18,7 +18,7 @@
 # 💻 Tech Stack:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,git,kubernetes,docker,aws,openshift,ansible,terraform,linux" />
+    <img src="https://skillicons.dev/icons?i=java,git,kubernetes,docker,aws,openshift,ansible,terraform,linux,jenkins" />
   </a>
 </p>
 <br>
@@ -28,6 +28,5 @@
 </a>
  	<a href="https://www.twitch.tv/bytebr" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank">
 </a>
-  <a href = "mailto:nicolasblima1711@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/nicolaslima1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  <br>
+</a>
