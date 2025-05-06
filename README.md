@@ -2,7 +2,7 @@
 
 
 - 🔭 Java Developer e DevOps Engineer
-- 🌱 Stack: Kubernetes, Argo CD, Vagrant, Packer, Git Actions.
+- 🌱 Stack: Kubernetes, Argo CD, Vagrant, Packer, GitOps.
 - 🌐 Cloud: AWS and Azure
 - 📫 Contact me at the email: nicolasblima1711@gmail.com
 
