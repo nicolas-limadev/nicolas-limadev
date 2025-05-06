@@ -18,7 +18,7 @@
 # 💻 Tech Stack:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,git,kubernetes,docker,aws,openshift,ansible,terraform,linux,jenkins" />
+    <img src="https://skillicons.dev/icons?i=java,git,kubernetes,docker,aws,azure,openshift,ansible,terraform,linux,jenkins" />
   </a>
 </p>
 <br>
