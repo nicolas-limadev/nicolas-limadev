@@ -37,6 +37,8 @@ Terraform
 MySQL
 <img align="center" alt="Nick-postgres" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"> 
 PostgreSQL
+</div>
+<div style="display: inline_block" align="center"><br>
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 </div>
 <br>
