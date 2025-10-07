@@ -1,8 +1,8 @@
 ### Hi! I'm Nicolas 👋
 
 
-- 🔭 Java Developer e DevOps Engineer
-- 🌱 Stack: Kubernetes, Argo CD, Vagrant, Packer, GitOps.
+- 🔭 DevOps Engineer
+- 🌱 Stack: Kubernetes, Argo CD - GitOps, Ansible, Vagrant, Packer, Terraform
 - 🌐 Cloud: AWS and Azure
 - 📫 Contact me at the email: nicolasblima1711@gmail.com
 
