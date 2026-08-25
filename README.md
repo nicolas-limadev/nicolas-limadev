@@ -2,18 +2,10 @@
 
 
 - 🔭 DevOps Engineer
-- 🌱 Stack: Kubernetes, Argo CD - GitOps, Ansible, Vagrant, Packer, Terraform
+- 🌱 Stack: Kubernetes, Openshift, Argo CD - GitOps, Ansible, Vagrant, Packer, Terraform
 - 🌐 Cloud: AWS and Azure
 - 📫 Contact me at the email: nicolasblima1711@gmail.com
 
-# 📊 GitHub Stats:
-<div align="center"><br>
-  <a href="https://github.com/nicolas-limadev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolas-limadev&show_icons=false&theme=dracula&include_all_commits=true&count_private=true&layout=compact"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicolas-limadev&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=nicolas-limadev&theme=dark&hide_border=false"/>
-    
-</div>
     
 # 💻 Tech Stack:
 <p align="center">
